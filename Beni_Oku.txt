@@ -1,3 +1,0 @@
-Admin Panel Bulucu Python3 betiği İnput'a web adresini https://ornek_site.com şeklinde girmeniz yeterlidir. Yaklaşık 1200 adet login page adresi ile deneme yapıcaktır ve bulunan login sayfalarını .txt dosyasına yazdıracaktır. 
-
-Kötü amaçlı kullanımdan sorumlu değilim :)
